@@ -8,7 +8,8 @@ Execute process automatically while not supervising is ending can cause problems
 File Lock - the file of the lock.<br />
 Execute File - the file that should execute under the lock.<br />
 Arguments - the arguments of the executed file.<br />
-Mode: s - single try to lock the file
+Mode:<br />
+      s - single try to lock the file<br />
       r - try to lock file recrusive every 1 second
       
 
